@@ -8,5 +8,6 @@ We all went to exams completley unprepared, right?
 
 ## my process
 
-This basically translates every into a dictionary and then print the encrypted text, ready to be sent/copied <br>
+This basically translates every into a dictionary and then print the encrypted text, ready to be sent/copied 
+
 __obviously you still have to learn how to decrypt it__
